@@ -1,0 +1,8 @@
+                <th>Material</th>
+                <th>Texto Breve Material</th>
+                <th>Centro</th>
+                <th>Depósito</th>
+                <th>Lote</th>
+                <th>Und</th>
+                <th>Qtd</th>
+                <th>Val.Qtd</th>
